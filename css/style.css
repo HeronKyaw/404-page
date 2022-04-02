@@ -1,0 +1,156 @@
+/* import */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Montserrat:wght@700&family=Space+Mono:wght@400;700&display=swap');
+
+/* FONTS FAMILY 
+font-family: 'Inconsolata', monospace;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Space Mono', monospace;
+*/
+/* import ends */
+
+/* overall styling */
+body {
+    margin: 0;
+}
+/* overall styling ends */
+
+/* default styling */
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 308px;
+}
+
+.container {
+    margin: 40px 119px 0 77px;
+}
+
+.nf {
+    color: #333;
+    font-weight: 700;
+    width: 133px;
+    height: 25px;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    font-family: 'Inconsolata', monospace;
+    margin-bottom: 200px;
+}
+
+.scarecrow {
+    width: 539.22px;
+    height: 447.43px;
+}
+
+/* main content section */
+.content {
+    width: 586px;
+}
+
+.title {
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    width: 586px;
+    height: 190px;
+    margin-bottom: 36px;
+}
+
+.subtitile {
+    font-family: 'Space Mono', monospace;
+    color: #4f4f4f;
+    width: 381px;
+    height: 108px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    margin-bottom: 64px;
+}
+/* main content section ends */
+
+/* button */
+.btn {
+    background-color: #333;
+    width: 216px;
+    height: 68px;
+}
+
+.btn-text {
+    font-family: 'Space Mono', monospace;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.035em;
+    padding: 24px 43px 23px 43px;
+}
+/* button ends */
+
+/* footer */
+.footer {
+    color: #bdbdbd;
+    width: 287px;
+    height: 17px;
+    font-family: 'Space Mono', monospace;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 24px;
+}
+
+.myname {
+    color: #bdbdbd;
+}
+/* footer ends */
+/* default styling ends */
+
+
+/* Responsive styling */
+@media (max-width: 375px) {
+    .main {
+        margin-bottom: 114px;
+    }
+
+    .container {
+        margin: 20px 0 0 24px;
+    }
+
+    .nf {
+        margin-bottom: 64px;
+    }
+
+    .img, .scarecrow {
+        width: 287px;
+        height: 238px;
+    }
+    .img {
+        margin-left: 20px;
+    }
+
+    .title {
+        width: 350px;
+        height: 142px;
+        font-size: 48px;
+        line-height: 71px;
+
+        margin-top: 60px;
+        margin-bottom: 30px;
+    }
+    .subtitile {
+        width: 328px;
+        height: 81px;
+        line-height: 27px;
+        font-size: 18px;
+
+        margin-bottom: 66px;
+    }
+}
+/* Responsive styling ends */
