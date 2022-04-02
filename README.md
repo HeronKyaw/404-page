@@ -48,7 +48,7 @@ Q: Where can I see your demo?
 Q: What was your experience?
 - I was confused to choose between pure CSS and boostrap 5 to complete this challenge. Then, I found out the pure CSS is more suited for this project than the Bootstrap 5.
 
-A: What have you learned/improved?
+Q: What have you learned/improved?
 - I have learned how to work with the design. That was pretty cool because it makes me feel like I am working at a company. Also, I've improved my Flexbox skill of CSS.
 
 ### Built With
