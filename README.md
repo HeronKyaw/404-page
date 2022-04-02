@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://heronkyaw.github.io/404-page/">
       Demo
     </a>
     <span> | </span>
@@ -43,13 +43,13 @@ Screenshot for 1440 x 1080
 ![screenshot](./screenshots/1440x1080.jpg)
 
 Q: Where can I see your demo?
-A: I provided the Github link above. You can just click the demo.
+- I provided the Github link above. You can just click the demo.
 
 Q: What was your experience?
-A: I was confused to choose between pure CSS and boostrap 5 to complete this challenge. Then, I found out the pure CSS is more suited for this project than the Bootstrap 5.
+- I was confused to choose between pure CSS and boostrap 5 to complete this challenge. Then, I found out the pure CSS is more suited for this project than the Bootstrap 5.
 
 A: What have you learned/improved?
-Q: I have learned how to work with the design. That was pretty cool because it makes me feel like I am working at a company. Also, I've improved my Flexbox skill of CSS.
+- I have learned how to work with the design. That was pretty cool because it makes me feel like I am working at a company. Also, I've improved my Flexbox skill of CSS.
 
 ### Built With
 
